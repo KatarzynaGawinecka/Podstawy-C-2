@@ -1,0 +1,7 @@
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\bin\Debug\Zadanie 4 (samodzielne).exe.config
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\bin\Debug\Zadanie 4 (samodzielne).exe
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\bin\Debug\Zadanie 4 (samodzielne).pdb
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\obj\Debug\Zadanie 4 (samodzielne).csproj.AssemblyReference.cache
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\obj\Debug\Zadanie 4 (samodzielne).csproj.CoreCompileInputs.cache
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\obj\Debug\Zadanie 4 (samodzielne).exe
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (samodzielne)\Zadanie 4 (samodzielne)\obj\Debug\Zadanie 4 (samodzielne).pdb
