@@ -1,0 +1,2 @@
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 6 (metody)\Zadanie 6 (metody)\obj\Debug\Zadanie 6 (metody).csproj.AssemblyReference.cache
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 6 (metody)\Zadanie 6 (metody)\obj\Debug\Zadanie 6 (metody).csproj.CoreCompileInputs.cache
