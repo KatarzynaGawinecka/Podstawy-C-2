@@ -1,0 +1,7 @@
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\bin\Debug\Zadanie 1 (struktury).exe.config
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\bin\Debug\Zadanie 1 (struktury).exe
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\bin\Debug\Zadanie 1 (struktury).pdb
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\obj\Debug\Zadanie 1 (struktury).csproj.AssemblyReference.cache
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\obj\Debug\Zadanie 1 (struktury).csproj.CoreCompileInputs.cache
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\obj\Debug\Zadanie 1 (struktury).exe
+C:\Users\katga\source\repos\Podstawy-C-2\Zadanie 1 (struktury)\Zadanie 1 (struktury)\obj\Debug\Zadanie 1 (struktury).pdb
